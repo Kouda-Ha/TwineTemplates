@@ -1,0 +1,23 @@
+README (Short summary of this repository):
+
+This repository was made by Kouda_Ha of Moop (Open-source Games) for a charity event called Sparkle Sanctuary by 
+(Sparkle: The National Trans Charity).
+
+The event is a safe space held in person in Manchester, UK. The April event includes a workshop for "Text Adventure 101" where 
+we will be teaching people how to use Twine (https://twinery.org/), the open source tool / Games Engine for making interactive 
+stories.
+
+It is a very basic and made with the assumption that there will be people who have never touched games design, development, or 
+computer programming at any level.
+
+This repo includes:
+- Games Design Document
+- Twine Tutorial Document
+- Twine Story Ideas Document
+- One HTML Games file to import into Twine for a simple text adventure
+- One HTML Games file to import into Twine for a simple "escape room" style game 
+(3 collectables (currently called 'keys') and a timer (currently 300 seconds) that can both be changed at will)
+
+We have tried our best to make both templates easy to understand and edit, and Kouda_Ha from Moop will be at the event for the 
+entire event to help people with downloading and setting up Twine, using Twine, thinking of gaming ideas, any bugs / issues or confusion, 
+and anything else that may be needed for the "Text Adventure 101" workshop.
